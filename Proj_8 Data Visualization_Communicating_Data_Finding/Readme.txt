@@ -1,5 +1,5 @@
 Dataset Exploration with Ford GoBike System Data
-by MANISH KUMAR
+by Amul Upadhyay
 _________________________________________________________________________
 Data source :
 Ford GoBike System Data : https://www.fordgobike.com/system-data 
